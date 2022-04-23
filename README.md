@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlekseyGusev
 - 🌱 I’m currently learning Java
 - 👀 I’m looking for a job
-- 📫 How to reach me: https://t.me/Aleksei_Gusev / alekseygusev24@gmail.com
+- 📫 How to reach me: https://t.me/alxgusev / alekseygusev24@gmail.com
 
 <!---
 AlekseyGusev/AlekseyGusev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
